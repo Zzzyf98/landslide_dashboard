@@ -1,4 +1,4 @@
-# my-vue-app
+# landslide_dashboard
 
 ## Project setup
 ```
